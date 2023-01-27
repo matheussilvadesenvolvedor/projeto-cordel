@@ -66,6 +66,7 @@ box-shadow: inset 6px 6px 13px 0 rgba(0, 0, 0, 0.616);
 background-size: cover;
 background-position: right center;
 background-attachment: fixed;
+width: 100%;
 }
 section.imagem >p{
     background-color: rgba(0, 0, 0, 0.192);
